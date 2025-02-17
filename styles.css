@@ -13,7 +13,5 @@
 .box {
     height: 100px;
     width: 100 px;
-    padding: 50px;
-    margin: 50px;
     border: 1px black;
 }
