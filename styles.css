@@ -2,6 +2,18 @@
     color: royalblue
 }
 
-.background_color {
+.green {
     color: springgreen
+}
+
+.pink {
+    color: #FFD1DC
+}
+
+.box {
+    height: 100px;
+    width: 100 px;
+    padding: 50px;
+    margin: 50px;
+    border: 1px #FFD1DC;
 }
